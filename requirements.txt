@@ -1,4 +1,4 @@
-Authlib==0.15.5
+Authlib==1.0.1
 boto3==1.17.101
 email-validator==1.0.5
 Fabric3==1.14.post1
@@ -12,8 +12,8 @@ Flask-Sitemap==0.3.0
 Flask-SQLAlchemy==2.5.1
 Flask-WTF==0.15.1
 future==0.18.2
-gunicorn==19.9
-Pillow==7.2.0
+gunicorn==20.1.0
+Pillow==9.1.1
 psycopg2-binary==2.9.1
 python-dateutil==2.8.1
 python-dotenv==0.7.1
